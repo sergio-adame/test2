@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test2/static/css/main.8ae46512.chunk.css",
+    "main.js": "/test2/static/js/main.1865c9c0.chunk.js",
+    "main.js.map": "/test2/static/js/main.1865c9c0.chunk.js.map",
+    "runtime-main.js": "/test2/static/js/runtime-main.661f25ff.js",
+    "runtime-main.js.map": "/test2/static/js/runtime-main.661f25ff.js.map",
+    "static/js/2.8f4d6a19.chunk.js": "/test2/static/js/2.8f4d6a19.chunk.js",
+    "static/js/2.8f4d6a19.chunk.js.map": "/test2/static/js/2.8f4d6a19.chunk.js.map",
+    "index.html": "/test2/index.html",
+    "precache-manifest.7d626282963e35ef7a7c025597aa9a3a.js": "/test2/precache-manifest.7d626282963e35ef7a7c025597aa9a3a.js",
+    "service-worker.js": "/test2/service-worker.js",
+    "static/css/main.8ae46512.chunk.css.map": "/test2/static/css/main.8ae46512.chunk.css.map",
+    "static/js/2.8f4d6a19.chunk.js.LICENSE.txt": "/test2/static/js/2.8f4d6a19.chunk.js.LICENSE.txt",
+    "static/media/AnconaAutopartes.png": "/test2/static/media/AnconaAutopartes.3a60e3be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661f25ff.js",
+    "static/js/2.8f4d6a19.chunk.js",
+    "static/css/main.8ae46512.chunk.css",
+    "static/js/main.1865c9c0.chunk.js"
+  ]
+}
